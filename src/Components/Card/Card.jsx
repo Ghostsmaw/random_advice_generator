@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import patternDesktop from '../../Assets/pattern-divider-desktop.svg'
 import patternMobile from '../../Assets/pattern-divider-mobile.svg'
 import './Card.sass'
